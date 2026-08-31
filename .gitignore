@@ -1,0 +1,10 @@
+# Môi trường ảo Python
+venv/
+ENV/
+env/
+.venv/
+
+# Cấu hình JetBrains / PyCharm
+.idea/
+*.iws
+*.iml
